@@ -2,8 +2,8 @@ plugins {
     id("java")
 }
 
-group = "org.example"
-version = "1.0-SNAPSHOT"
+group = "io.vertx"
+version = "4.5.1"
 
 repositories {
     mavenCentral()
